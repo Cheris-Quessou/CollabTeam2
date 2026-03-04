@@ -1437,3 +1437,27 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.03.04-14.22.08:357][ 39]LogEditorDataStorage: Deinitializing
+[2026.03.04-14.22.10:391][ 39]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.04-14.22.11:396][ 39]LogExit: Editor shut down
+[2026.03.04-14.22.11:402][ 39]LogExit: Transaction tracking system shut down
+[2026.03.04-14.22.27:006][ 39]LogExit: Object subsystem successfully closed.
+[2026.03.04-14.22.27:040][ 39]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.04-14.22.35:851][ 39]LogMemoryProfiler: Shutdown
+[2026.03.04-14.22.35:937][ 39]LogNetworkingProfiler: Shutdown
+[2026.03.04-14.22.35:937][ 39]LoadingProfiler: Shutdown
+[2026.03.04-14.22.35:938][ 39]LogTimingProfiler: Shutdown
+[2026.03.04-14.22.36:157][ 39]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.04-14.22.36:220][ 39]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.04-14.22.40:955][ 39]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.04-14.22.41:297][ 39]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.04-14.22.41:323][ 39]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6566E055-4C03-3202-BAD0-7EB34329279E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=cb2d02114fd226630c33169450367fce%7C8fca6b241fde4b0a86916c4096f66128%7C5e3d1435-ddbd-4e7d-b4a7-3e1b2c803fbe&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.04-14.22.42:214][ 39]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.04-14.22.42:245][ 39]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.04-14.22.42:352][ 39]RenderDocPlugin: plugin has been unloaded.
+[2026.03.04-14.22.42:575][ 39]LogXGEController: Cleaning working directory: C:/Users/benbu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.04-14.22.43:007][ 39]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.04-14.22.43:007][ 39]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.04-14.22.43:007][ 39]LogPakFile: Destroying PakPlatformFile
+[2026.03.04-14.22.43:838][ 39]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.04-14.22.44:142][ 39]LogExit: Exiting.
+[2026.03.04-14.22.44:197][ 39]Log file closed, 03/04/26 14:22:44
