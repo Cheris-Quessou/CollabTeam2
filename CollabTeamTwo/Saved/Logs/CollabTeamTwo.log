@@ -1306,3 +1306,134 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.04-14.20.01:854][862]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Saved/SourceControl/UncontrolledChangelists.json
 [2026.03.04-14.20.02:149][884]LogSlate: Took 0.022824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2026.03.04-14.20.43:271][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.04-14.21.34:188][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.04-14.21.34:191][249]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Work/Ben/BenTestLevel' took 0.036
+[2026.03.04-14.21.34:219][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Work/Ben/TestEnemy_BP] ([2] browsable assets)...
+[2026.03.04-14.21.34:373][249]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Work/Ben/TestEnemy_BP.TestEnemy_BP]
+[2026.03.04-14.21.34:374][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work/Ben/TestEnemy_BP]
+[2026.03.04-14.21.34:596][249]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Work/Ben/TestEnemy_BP_Auto1
+[2026.03.04-14.21.34:596][249]LogSavePackage: Moving 'C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Saved/TestEnemy_BP_Auto1B4005B33454B43B76DF2BEBB6874581B.tmp' to 'C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Saved/Autosaves/Game/Work/Ben/TestEnemy_BP_Auto1.uasset'
+[2026.03.04-14.21.34:597][249]LogFileHelpers: Auto-saving content packages took 0.381
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: ================================================
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Total job queries 451, among them cache hits 42 (9.31%), DDC hits 335 (74.28%), Duplicates 73 (16.19%)
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Tracking 336 distinct input hashes that result in 246 distinct outputs (73.21%)
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: RAM used: 3.33 MiB of 819.20 MiB budget. Usage: 0.41%
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Job execution time: average 3.32 s, max 3.32 s
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Job life time (pending + execution): average 3.42 s, max 3.42
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Shader code size: total 14.93 KiB, numShaders 1, average 14.93 KiB, min 14.93 KiB, max 14.93 KiB
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.42 s
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.04-14.21.44:351][185]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Average processing rate: 0.29 jobs/sec
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Total thread time: 1.573 s
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Total thread preprocess time: 8.254 s
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Percentage time preprocessing: 524.58%
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.057446
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 100.00% of total time (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: === Material stats ===
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Materials Translated:    142
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Material Translation Only: 0.06 s (26%)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: Material Cache Hits: 11 (8%)
+[2026.03.04-14.21.44:352][185]LogShaderCompilers: Display: ================================================
+[2026.03.04-14.22.00:416][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.04-14.22.01:161][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.04-14.22.01:221][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Work/Ben/TestEnemy_BP] ([2] browsable assets)...
+[2026.03.04-14.22.01:290][830]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Work/Ben/TestEnemy_BP.TestEnemy_BP]
+[2026.03.04-14.22.01:290][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work/Ben/TestEnemy_BP]
+[2026.03.04-14.22.01:320][830]LogSavePackage: Moving output files for package: /Game/Work/Ben/TestEnemy_BP
+[2026.03.04-14.22.01:321][830]LogSavePackage: Moving 'C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Saved/TestEnemy_BPFA914E464512F5663C17A0A24C96C34C.tmp' to 'C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestEnemy_BP.uasset'
+[2026.03.04-14.22.01:330][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.100 ms (total: 604.015 ms)
+[2026.03.04-14.22.01:387][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.04-14.22.01:387][830]LogContentValidation: Enabled validators:
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.04-14.22.01:387][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.04-14.22.01:387][830]AssetCheck: /Game/Work/Ben/TestEnemy_BP Validating asset
+[2026.03.04-14.22.02:626][936]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.02:626][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.02:682][936]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini', retrying in .5s...
+[2026.03.04-14.22.03:183][936]LogFileManager: Warning: DeleteFile recovered during retry!
+[2026.03.04-14.22.03:439][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.04-14.22.04:596][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.04-14.22.04:661][ 38]LogStall: Shutdown...
+[2026.03.04-14.22.04:661][ 38]LogStall: Shutdown complete.
+[2026.03.04-14.22.04:771][ 38]LogSlate: Window 'CollabTeamTwo - Unreal Editor' being destroyed
+[2026.03.04-14.22.04:964][ 38]Cmd: QUIT_EDITOR
+[2026.03.04-14.22.04:964][ 39]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.04-14.22.05:035][ 39]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.04-14.22.05:075][ 39]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.04-14.22.05:075][ 39]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.04-14.22.05:184][ 39]LogWorld: UWorld::CleanupWorld for BenTestLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:184][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:354][ 39]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.04-14.22.05:381][ 39]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.04-14.22.05:521][ 39]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.04-14.22.05:649][ 39]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:649][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:653][ 39]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:654][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:658][ 39]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:658][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:683][ 39]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:683][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:686][ 39]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.04-14.22.05:686][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.04-14.22.05:805][ 39]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.04-14.22.05:817][ 39]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.04-14.22.05:880][ 39]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.04-14.22.06:359][ 39]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.04-14.22.06:359][ 39]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.04-14.22.06:359][ 39]LogAudio: Display: Audio Device unregistered from world 'BenTestLevel'.
+[2026.03.04-14.22.06:375][ 39]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.04-14.22.06:375][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.04-14.22.06:379][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.04-14.22.06:391][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.04-14.22.06:396][ 39]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.04-14.22.06:397][ 39]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.04-14.22.06:431][ 39]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.04-14.22.06:432][ 39]LogExit: Preparing to exit.
+[2026.03.04-14.22.06:996][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.04-14.22.07:004][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:004][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.07:005][ 39]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.04-14.22.08:357][ 39]LogEditorDataStorage: Deinitializing
