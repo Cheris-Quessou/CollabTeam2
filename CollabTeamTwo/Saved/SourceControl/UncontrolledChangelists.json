@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/AC_WeaponManager.uasset",
+				"C:/Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_Pistol.uasset",
+				"C:/Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_WeaponBase.uasset",
+				"C:/Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/21/8O2AK8F3EOUK7L118A0IGZ.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestCharJoshua.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/JoshuaTestMap.umap",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestGMJoshua.uasset",
