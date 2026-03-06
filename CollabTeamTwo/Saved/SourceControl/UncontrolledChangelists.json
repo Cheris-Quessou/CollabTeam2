@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/q017158n/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Enemy.uasset",
+				"C:/Users/q017158n/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_BoxTrace.uasset",
+				"C:/Users/q017158n/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestEnemySpawner_BP.uasset",
 				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Health.uasset",
 				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_LineTrace.uasset",
 				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestCharCheris.uasset",
