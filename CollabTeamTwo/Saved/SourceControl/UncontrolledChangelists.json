@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Health.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_LineTrace.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestCharCheris.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestGMCheris.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestDummy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_AlphaSpawner.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestCharJoshua.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/JoshuaTestMap.umap",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestGMJoshua.uasset",
@@ -12,12 +19,6 @@
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BPI_ChracterJoshua.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_EnemyJoshua.uasset",
 				"C:/Users/L019284N/Documents/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BPI_CharacterJosh.uasset",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Health.uasset",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_LineTrace.uasset",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestCharCheris.uasset",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestGMCheris.uasset",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap",
-				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestDummy.uasset",
 				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap"
 			]
 		}
