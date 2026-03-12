@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BenTestLevel.umap",
 				"C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestEnemy_BP.uasset",
 				"C:/Users/benbu/OneDrive/Documents/1UNIVERSITYWORK/UNIWORK/Uni Repositiory/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestDamage_BP.uasset",
@@ -21,6 +22,43 @@
 				"C:/Users/b019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/FishRig/player_fish_mayarig.uasset",
 				"C:/Users/b019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/FishRig/player_fish_mayarig_CtrlRig.uasset",
 				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap"
+=======
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Health.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestWaveGameMode_BP.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestWaveGameMode_BP1.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_CherisGM.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_Enemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestCharCheris.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_BoxTrace.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_Enemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BPComponents/BP_BoxTrace.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BPComponents/BP_Health.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BPComponents/BP_LineTrace.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_LineTrace.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestDummy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BT_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BB_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/AIC_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/Tasks/BTT_MaleeAttack.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/Tasks/BTT_FocusOnPlayer.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/Tasks/BTT_ClearFocus.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_MeleeGruntEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/Tasks/BTT_MeleeAttack.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Meterials/M_Red.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Meterials/M_Orange.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_RangedEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BPI_EnemyAttack.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BehaviourTrees/BB_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BehaviourTrees/BT_BaseEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BehaviourTrees/BT_SubTree_ChasePlayer.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/AI/BehaviourTrees/BT_MeleeEnemy.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Ben/Red_M.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_AlphaSpawner.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/BP_TestGMCheris.uasset",
+				"C:/Users/Cheris/Desktop/CollabTeam2/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestWaveGameMode_BP.uasset"
+>>>>>>> main
 			]
 		}
 	]
