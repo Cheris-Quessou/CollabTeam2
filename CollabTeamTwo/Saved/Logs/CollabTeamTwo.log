@@ -3241,3 +3241,6 @@ FPackageName: Skipped package /Game/Work/Ben/TestWaveGameMode_BP has a valid, mo
 [2026.03.12-13.53.08:021][572]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.03.12-13.53.08:021][572]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2026.03.12-13.53.09:164][572]LogEditorDataStorage: Deinitializing
+[2026.03.12-13.53.10:987][572]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.12-13.53.11:991][572]LogExit: Editor shut down
+[2026.03.12-13.53.11:995][572]LogExit: Transaction tracking system shut down
