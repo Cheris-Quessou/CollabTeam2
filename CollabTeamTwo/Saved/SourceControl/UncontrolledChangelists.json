@@ -6,15 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/TestMapCheris.umap",
-				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestWaveGameMode_BP1.uasset",
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestEnemySpawner_BP.uasset",
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_BaseEnemy.uasset",
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestEnemy_BP.uasset",
+				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BenTestLevel.umap",
+				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestGMJoshua.uasset",
+				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Cheris/Enemy/BP_KamakazeEnemy.uasset",
+				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/TestWaveGameMode_BP1.uasset",
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BP_MeleeGruntEnemyCopy.uasset",
 				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BP_MeleeBruteEnemyCopy.uasset",
-				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BP_KamakazeEnemyCopy.uasset",
-				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BenTestLevel.umap",
-				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Joshua/BP_TestGMJoshua.uasset"
+				"C:/Users/B019263o/Documents/Repos/CollabTeam2/CollabTeamTwo/Content/Work/Ben/BP_KamakazeEnemyCopy.uasset"
 			]
 		}
 	]
