@@ -5502,3 +5502,34 @@ Make sure '/Game/Work/Pablo/BP_Bullet.BP_Bullet_C' has been compiled for  Get Mu
 [2026.03.13-01.08.18:871][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9761.878906
 [2026.03.13-01.08.19:871][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.13-01.08.19:871][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9762.544922, Update Interval: 308.655670
+[2026.03.13-01.08.57:447][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.13-01.08.59:006][500]LogSlate: Window 'Save Content' being destroyed
+[2026.03.13-01.08.59:039][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.13-01.08.59:077][500]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Work/Pablo/BP_AR] ([2] browsable assets)...
+[2026.03.13-01.08.59:140][500]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Work/Pablo/BP_AR.BP_AR]
+[2026.03.13-01.08.59:140][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work/Pablo/BP_AR]
+[2026.03.13-01.08.59:140][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Work/Pablo/BP_AR" FILE="../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_AR.uasset" SILENT=true
+[2026.03.13-01.08.59:149][500]LogSavePackage: Moving output files for package: /Game/Work/Pablo/BP_AR
+[2026.03.13-01.08.59:150][500]LogSavePackage: Moving '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Saved/BP_AR56398A874354323B6E50889BA7139A38.tmp' to '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_AR.uasset'
+[2026.03.13-01.08.59:151][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Work/Pablo/BP_Shotgun] ([2] browsable assets)...
+[2026.03.13-01.08.59:151][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work/Pablo/BP_Shotgun]
+[2026.03.13-01.08.59:151][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Work/Pablo/BP_Shotgun" FILE="../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_Shotgun.uasset" SILENT=true
+[2026.03.13-01.08.59:159][500]LogSavePackage: Moving output files for package: /Game/Work/Pablo/BP_Shotgun
+[2026.03.13-01.08.59:160][500]LogSavePackage: Moving '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Saved/BP_Shotgun529D90E8486DCA4C1D9B87868D937835.tmp' to '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_Shotgun.uasset'
+[2026.03.13-01.08.59:161][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Work/Pablo/BP_Sniper] ([2] browsable assets)...
+[2026.03.13-01.08.59:161][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Work/Pablo/BP_Sniper]
+[2026.03.13-01.08.59:161][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Work/Pablo/BP_Sniper" FILE="../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_Sniper.uasset" SILENT=true
+[2026.03.13-01.08.59:167][500]LogSavePackage: Moving output files for package: /Game/Work/Pablo/BP_Sniper
+[2026.03.13-01.08.59:168][500]LogSavePackage: Moving '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Saved/BP_SniperDBA6945847D80ECA6E3CA6A184B56FB8.tmp' to '../../../../../../Users/indiu/OneDrive/Documentos/GitHub/CollabTeam2/CollabTeamTwo/Content/Work/Pablo/BP_Sniper.uasset'
+[2026.03.13-01.08.59:178][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.378 ms (total: 6.38 sec)
+[2026.03.13-01.08.59:214][500]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.13-01.08.59:214][500]LogContentValidation: Enabled validators:
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.13-01.08.59:214][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.13-01.08.59:214][500]AssetCheck: /Game/Work/Pablo/BP_AR Validating asset
+[2026.03.13-01.08.59:214][500]AssetCheck: /Game/Work/Pablo/BP_Shotgun Validating asset
+[2026.03.13-01.08.59:214][500]AssetCheck: /Game/Work/Pablo/BP_Sniper Validating asset
