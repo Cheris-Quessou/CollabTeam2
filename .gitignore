@@ -1,68 +1,11 @@
-# =========================
-# ide and local files
-# =========================
-.vs/
-.idea/
-.rider/
-*.sln
-*.suo
-*.opensdf
-*.sdf
-*.VC.db
-*.VC.opendb
-*.xcworkspace
-*.xcodeproj
-
-# =========================
-# unreal engine temporary folders
-# =========================
-Saved/
-Intermediate/
-DerivedDataCache/
-Binaries/
-Plugins/**/Binaries/
-Plugins/**/Intermediate/
-
-# =========================
-# builds and packaging
-# =========================
+# Unreal Engine folders to ignore
+**/Binaries/
 Build/
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
-!Build/**/*.ico
-
-# =========================
-# precompiled assets and engine caches
-# =========================
-*_BuiltData.uasset
-SourceArt/**/*.png
-SourceArt/**/*.tga
-
-# =========================
-# os generated files (windows/mac)
-# =========================
-.DS_Store
-Thumbs.db
-
-# =========================
-# general c++ and binary files
-# =========================
-*.slo
-*.lo
-*.o
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vscode/
+.vs/
+*.sln
 *.obj
-*.gch
-*.pch
-*.so
-*.dylib
-*.dll
-*.mod
-*.lai
-*.la
-*.a
-*.lib
-*.exe
-*.out
-*.app
-*.ipa
+*.pdb
